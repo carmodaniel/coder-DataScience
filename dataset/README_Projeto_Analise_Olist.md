@@ -204,9 +204,4 @@ Este projeto permite desenvolver habilidades em:
 - [Brazilian E-commerce Public Dataset](https://www.kaggle.com/olistbr/brazilian-ecommerce)
 - [Olist Business Intelligence](https://olist.com/)
 
----
 
-**Data de Criação**: Dezembro 2024  
-**Versão**: 1.0  
-**Autor**: Análise de Dados Olist  
-**Status**: Em Desenvolvimento
